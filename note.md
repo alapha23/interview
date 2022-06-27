@@ -1,0 +1,8 @@
+- [O] counting element (trade space for time)
+- [] prefix sum
+- [] max subarray dp (kadane algo)
+- [] linear programming
+- [] sliding window
+- [] two pointers
+- [] BST
+- [] Find path in graph
